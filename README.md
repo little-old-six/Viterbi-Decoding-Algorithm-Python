@@ -1,4 +1,5 @@
-# Viterbi-Decoding-Algorithm-Python
+# Viterbi Decoding in Python
+
 **Status:** Under update, version 1.0
 
 This is a coding exercise I completed for a course at Sun Yat-Sen University, "Information Theory and Coding."
